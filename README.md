@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Felipe Genaro Ribeiro e atualmente sou estudante do 3º ano do Ensino Médio no SESI, enquanto curso o Técnico em Desenvolvimento de Sistemas no SENAI.<br><br>Tenho 17 anos e gosto muito de tecnologia, com um interesse especial na área de desenvolvimento front-end. Gosto de transformar ideias em interfaces funcionais, organizadas e agradáveis ao usuário.<br><br>Estou sempre em busca de aprender, adquirir  mais conhecimento, melhorar minhas habilidades com código limpo e criar experiências visuais bem estruturadas.</p>
+<p align="left">Olá! Meu nome é Felipe Genaro Ribeiro e atualmente sou aluno da SPTech, enquanto curso Ciências da Computação.<br><br>Tenho 18 anos e gosto muito de tecnologia, com um interesse especial na área de desenvolvimento front-end. Gosto de transformar ideias em interfaces funcionais, organizadas e agradáveis ao usuário.<br><br>Estou sempre em busca de aprender, adquirir  mais conhecimento, melhorar minhas habilidades com código limpo e criar experiências visuais bem estruturadas.</p>
 
 ###
 
@@ -64,8 +64,6 @@
 ###
 
 <p align="left">Além de programar, também gosto muito de desenhar, acredito que ao desenhar você organiza formas, proporções e espaços além de ajudar na criatividade.</p>
-
-<p>Cursando CCO na faculdade Sptech </p>
 
 ###
 
