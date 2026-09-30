@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Felipe Genaro Ribeiro e atualmente sou aluno da SPTech, enquanto curso Ciências da Computação.<br><br>Tenho 18 anos e gosto muito de tecnologia, com um interesse especial na área de desenvolvimento front-end. Gosto de transformar ideias em interfaces funcionais, organizadas e agradáveis ao usuário.<br><br>Estou sempre em busca de aprender, adquirir  mais conhecimento, melhorar minhas habilidades com código limpo e criar experiências visuais bem estruturadas.</p>
+<p align="left">Olá! Meu nome é Felipe Genaro Ribeiro e atualmente sou aluno da SPTech, enquanto curso Ciências da Computação.<br><br>Tenho 18 anos e gosto muito de tecnologia, com um interesse especial na área de desenvolvimento front-end e Back-end. Gosto de transformar ideias em interfaces funcionais, organizadas e agradáveis ao usuário, além de armazenar informações com qualidade e eficiencia!<br><br>Estou sempre em busca de aprender, adquirir  mais conhecimento, melhorar minhas habilidades com código limpo e criar experiências visuais bem estruturadas.</p>
 
 ###
 
