@@ -67,6 +67,6 @@
 
 ###
 
-<h1 align="left">Frase</h1>
+<p align="left">Desenhar telas e estruturar dados é dar forma a ideias. A tecnologia é a minha ferramenta para transformar lógica e criatividade em soluções reais.</p>
 
 ###
